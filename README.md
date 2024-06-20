@@ -1,1 +1,1 @@
-Apenas treinando python, logo comçarei JavaScript e Java
+Apenas treinando python, logo começarei JavaScript e Java
